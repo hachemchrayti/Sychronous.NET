@@ -1,0 +1,46 @@
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\WpfClient.exe
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\WpfClient.deps.json
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\WpfClient.runtimeconfig.json
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\WpfClient.runtimeconfig.dev.json
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\WpfClient.dll
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\WpfClient.pdb
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\Common.dll
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.csprojAssemblyReference.cache
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient_MarkupCompile.cache
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient_MarkupCompile.lref
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.g.resources
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.AssemblyInfoInputs.cache
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.AssemblyInfo.cs
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.csproj.CoreCompileInputs.cache
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.csproj.CopyComplete
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.dll
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.pdb
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.genruntimeconfig.cache
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\WpfClient.exe
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\WpfClient.deps.json
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\WpfClient.runtimeconfig.json
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\WpfClient.runtimeconfig.dev.json
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\WpfClient.dll
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\WpfClient.pdb
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\Common.dll
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\bin\Debug\netcoreapp3.1\Common.pdb
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.csprojAssemblyReference.cache
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient_MarkupCompile.cache
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient_MarkupCompile.lref
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.g.resources
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.AssemblyInfoInputs.cache
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.AssemblyInfo.cs
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.csproj.CoreCompileInputs.cache
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.csproj.CopyComplete
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.dll
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.pdb
+D:\Projects\AsynchronousC#\1.AsyncCsharp\WpfClient\WpfClient\obj\Debug\netcoreapp3.1\WpfClient.genruntimeconfig.cache

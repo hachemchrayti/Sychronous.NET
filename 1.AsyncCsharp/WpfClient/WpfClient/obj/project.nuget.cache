@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kaH3klZjDYCjWCJpzfGMifsBzDNP3w1wmqB9vfF6lnDCvFpoZT6p4YBV/2rSlwuQGFyECmhd0Lj5FbVSXshOMA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\AsynchronousC#\\1.AsyncCsharp\\WpfClient\\WpfClient\\WpfClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hache\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

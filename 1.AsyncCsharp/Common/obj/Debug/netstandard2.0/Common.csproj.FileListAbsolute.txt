@@ -1,0 +1,27 @@
+D:\Udemy\csharpasync\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\Udemy\csharpasync\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\bin\Debug\netstandard2.0\Common.dll
+D:\Udemy\csharpasync\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\Udemy\csharpasync\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\Udemy\csharpasync\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\Udemy\csharpasync\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\Udemy\csharpasync\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\Udemy\csharpasync\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\obj\Debug\netstandard2.0\Common.dll
+D:\Udemy\csharpasync\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\obj\Debug\netstandard2.0\Common.pdb
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\bin\Debug\netstandard2.0\Common.dll
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\obj\Debug\netstandard2.0\Common.dll
+D:\Projects\AsynchronousC#\hts-learning-async-sources\Chap2\00 - AVANT\AsyncCshapr\Common\obj\Debug\netstandard2.0\Common.pdb
+D:\Projects\AsynchronousC#\1.AsyncCsharp\Common\bin\Debug\netstandard2.0\Common.deps.json
+D:\Projects\AsynchronousC#\1.AsyncCsharp\Common\bin\Debug\netstandard2.0\Common.dll
+D:\Projects\AsynchronousC#\1.AsyncCsharp\Common\bin\Debug\netstandard2.0\Common.pdb
+D:\Projects\AsynchronousC#\1.AsyncCsharp\Common\obj\Debug\netstandard2.0\Common.csprojAssemblyReference.cache
+D:\Projects\AsynchronousC#\1.AsyncCsharp\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+D:\Projects\AsynchronousC#\1.AsyncCsharp\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+D:\Projects\AsynchronousC#\1.AsyncCsharp\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+D:\Projects\AsynchronousC#\1.AsyncCsharp\Common\obj\Debug\netstandard2.0\Common.dll
+D:\Projects\AsynchronousC#\1.AsyncCsharp\Common\obj\Debug\netstandard2.0\Common.pdb
